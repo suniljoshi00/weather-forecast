@@ -4,4 +4,4 @@ Technologies used:
 1. Languages used:- HTML, CSS, Javascript
 2. API used:- Open weather API 
 
-Take a look:- https://sawankumarbhagat.github.io/weather-forecast/
+
